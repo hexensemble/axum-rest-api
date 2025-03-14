@@ -2,6 +2,8 @@
 
 Simple REST API built with Rust and Axum. 🤝
 
+![Axum REST API](preview.png)
+
 **Features:**
 
 - Fetch all users or a single user by ID
