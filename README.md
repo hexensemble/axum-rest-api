@@ -6,7 +6,7 @@ Example Rust REST API built with Axum and SQLx. 🤝
 
 **Features:**
 
-- SQLight database
+- SQLite database
 - Fetch all users or a single user by ID
 - Add new users via POST requests
 - Delete users via DELETE requests
