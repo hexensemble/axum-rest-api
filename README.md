@@ -2,6 +2,8 @@
 
 Example Rust REST API built with Axum and SQLx. 🤝
 
+<br>
+
 ![Axum REST API](preview.png)
 
 **Features:**
