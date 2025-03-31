@@ -1,6 +1,6 @@
 # Axum REST API
 
-Simple REST API built with Rust and Axum. 🤝
+Example Rust REST API built with Axum. 🤝
 
 ![Axum REST API](preview.png)
 
