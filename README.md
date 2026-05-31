@@ -6,6 +6,8 @@ Example Rust REST API built with Axum and SQLx. 🤝
 
 ![Axum REST API](preview.png)
 
+<br>
+
 🚧 This is just a code example, see [Leptos Full-Stack](https://github.com/hexensemble/leptos-full-stack) for a full implementation.
 
 <br>
